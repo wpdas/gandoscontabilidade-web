@@ -80,8 +80,12 @@ const Navbar = ({ navbarStyle, logoStyle, button, row, menuWrapper }) => {
                 drawerClose={true}
                 offset={-100}
               />
-              <a href="#1" className="navbar_drawer_button">
-                <Button {...button} title="GET STARTED" />
+              <a
+                href="https://forms.gle/uDXpDjyDzVNb16pGA"
+                target="_blank"
+                className="navbar_drawer_button"
+              >
+                <Button {...button} title="SOLICITE UM ORÇAMENTO" />
               </a>
             </Drawer>
           </Box>
