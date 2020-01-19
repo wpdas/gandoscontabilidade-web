@@ -1,0 +1,300 @@
+{
+  "MENU_ITEMS": [
+    {
+      "label": "Sobre Nós",
+      "path": "#banner_section",
+      "offset": "0"
+    },
+    {
+      "label": "Serviços",
+      "path": "#pricing_section",
+      "offset": "0"
+    },
+    {
+      "label": "Testemunhos",
+      "path": "#testimonial_section",
+      "offset": "0"
+    },
+    {
+      "label": "Perguntas Frequentes",
+      "path": "#faq_section",
+      "offset": "0"
+    }
+  ],
+  "PROCESS_ITEMS": [
+    {
+      "image": "../../assets/image/saasModern/icon-2.png",
+      "title": "Porque Nós",
+      "description": "Somos uma empresa jovem e experiente dedicada em gerar valores nos negócios dos nossos clientes através da prestação de serviços com alta tecnologia, qualidade, transparência nas informações e contabilidade consultiva."
+    },
+    {
+      "image": "../../assets/image/saasModern/icon-4.png",
+      "title": "Comprometimento",
+      "description": "Somos profissionais comprometidos com o cliente, garantindo qualidade na entrega. Sempre pautados na integridade, responsabilidade e boas práticas."
+    },
+    {
+      "image": "../../assets/image/saasModern/icon-6.png",
+      "title": "Relacionamento com o Cliente",
+      "description": "Estamos sempre conectados aos nossos clientes oferencendo o devido suporte de acordo com a necessidade dos mesmos. Ligue para nós para saber mais sobre nossos serviços."
+    }
+  ],
+  "MONTHLY_PRICING_TABLE": [
+    {
+      "freePlan": true,
+      "name": "Contábeis",
+      "description": "Prestação dos seguintes serviços na área contábil:",
+      "price": "",
+      "priceLabel": "",
+      "buttonLabel": "ENVIAR SOLICITAÇÃO",
+      "url": "https://forms.gle/CPknzwFuuhETDVHR6",
+      "listItems": [
+        {
+          "content": "Imposto de Renda de Pessoa Física"
+        },
+        {
+          "content": "Contabilização e conciliação dos documentos"
+        },
+        {
+          "content": "Apuração de Balancetes Mensais"
+        },
+        {
+          "content": "Elaboração de Balanço Patrimonial Anual (em 31 de dezembro) e Balanço de Resultado Econômico"
+        },
+        {
+          "content": "Elaboração e Entrega da Declaração de Imposto de Renda Pessoa Jurídica – SPED ECF"
+        },
+        {
+          "content": "Emissão de Demonstrativos Contábeis português e inglês, conforme International Financial Reporting Standards – IFRS"
+        }
+      ]
+    },
+    {
+      "name": "Fiscais e Tributários",
+      "description": "Prestação dos seguintes serviços nas áreas fiscal e tributária:",
+      "price": "",
+      "priceLabel": "",
+      "buttonLabel": "ENVIAR SOLICITAÇÃO",
+      "url": "https://forms.gle/zTG3ALLZfizHvBJ8A",
+      "listItems": [
+        {
+          "content": "Escrituração das Notas Fiscais de Entradas e de Saídas"
+        },
+        {
+          "content": "Cálculo e emissão das guias de recolhimento de tributos federais, estaduais"
+        },
+        {
+          "content": "Elaboração e Emissão dos seguintes Livros Fiscais: Registro de Entradas, Registro de Saídas, Registro de Apuração de ICMS"
+        },
+        {
+          "content": "Transcrição e emissão do livro de inventário elaborado pelo contribuinte"
+        },
+        {
+          "content": "Elaboração e Entrega dos relatórios e declarações exigidos pelo fisco estadual: DAPI, VAF e DAMEF e municipal: DES"
+        },
+        {
+          "content": "Solicitações e acompanhamento de Certidões Negativas"
+        }
+      ]
+    },
+    {
+      "name": "Legalização",
+      "description": "Prestação dos seguintes serviços na área de expediente:",
+      "price": "",
+      "priceLabel": "",
+      "buttonLabel": "ENVIAR SOLICITAÇÃO",
+      "url": "https://forms.gle/1L2aNw4QLJwE2h476",
+      "listItems": [
+        {
+          "content": "Solicitações de Notas Fiscais e senhas junto aos órgãos estaduais e municipais"
+        }
+      ]
+    }
+  ],
+  "YEARLY_PRICING_TABLE": [
+    {
+      "freePlan": true,
+      "name": "Basic Account",
+      "description": "For a single client or team who need to build website ",
+      "price": "$0",
+      "priceLabel": "Only for first month",
+      "buttonLabel": "CREATE FREE ACCOUNT",
+      "url": "#",
+      "listItems": [
+        {
+          "content": "Drag & Drop Builder"
+        },
+        {
+          "content": "1,000s of Templates Ready"
+        },
+        {
+          "content": "Blog Tools"
+        },
+        {
+          "content": "eCommerce Store "
+        },
+        {
+          "content": "30+ Webmaster Tools"
+        }
+      ]
+    },
+    {
+      "name": "Business Account",
+      "description": "For Small teams or group who need to build website ",
+      "price": "$6.00",
+      "priceLabel": "Per month & subscription yearly",
+      "buttonLabel": "START FREE TRIAL",
+      "url": "#",
+      "listItems": [
+        {
+          "content": "Unlimited secure storage"
+        },
+        {
+          "content": "2,000s of Templates Ready"
+        },
+        {
+          "content": "Blog Tools"
+        },
+        {
+          "content": "24/7 phone support"
+        },
+        {
+          "content": "50+ Webmaster Tools"
+        }
+      ]
+    },
+    {
+      "name": "Premium Account",
+      "description": "For Large teams or group who need to build website ",
+      "price": "$9.99",
+      "priceLabel": "Per month & subscription yearly",
+      "buttonLabel": "START FREE TRIAL",
+      "url": "#",
+      "listItems": [
+        {
+          "content": "Drag & Drop Builder"
+        },
+        {
+          "content": "3,000s of Templates Ready"
+        },
+        {
+          "content": "Advanced branding"
+        },
+        {
+          "content": "Knowledge base support"
+        },
+        {
+          "content": "80+ Webmaster Tools"
+        }
+      ]
+    }
+  ],
+  "FAQ_DATA": [
+    {
+      "expend": true,
+      "title": "Como entrar em contato com nosso serviço de atendimento?",
+      "description": "Nosso time de serviço de atendimento ao cliente está disponivel de segunda à sexta-feira de 8hs às 18hs. Você pode entrar em contato através do nosso Chat, E-mail ou Telefone (Whatsapp disponível)"
+    },
+    {
+      "title": "Costuma ser caro?",
+      "description": "Existem diferentes preços para cada tipo de serviço(s). Podemos trabalhar em uma simples emissão de Nota Fiscal até gerir toda a parte contábil de sua empresa. Os valores cobrados são referente à porção de processos que temos de resolver. Entre em contato e solicite um orçamento, é gratuíto!"
+    },
+    {
+      "title": "Há penalidade pelo não pagamento do Simples Nacional?",
+      "description": "O não pagamento do DAS irá gerar juros e multas de acordo com Art. 38 da Resolução CGSN n° 94/2011. A responsabilidade é atribuída à empresa devedora e não à contabilidade.."
+    },
+    {
+      "title": "É possível baixar uma empresa do Simples Nacional com débitos?",
+      "description": "Conforme o artigo 9° da LC 123/2006 as empresas ME ou EPP podem dar baixa nos seus atos constitutivos mesmo estando com dívidas."
+    }
+  ],
+  "FOOTER_WIDGET": [
+    {
+      "title": "Sobre Nós",
+      "menuItems": [
+        {
+          "url": "#faq_section",
+          "text": "Atendimento ao Cliente"
+        },
+        {
+          "url": "#pricing_section",
+          "text": "Nossos Serviços"
+        },
+        {
+          "url": "#banner_section",
+          "text": "Sobre Nós"
+        }
+      ]
+    },
+    {
+      "title": "Desenvolvedor do Site",
+      "menuItems": [
+        {
+          "url": "https://www.linkedin.com/in/wenderson-pires-silva/",
+          "text": "Entrar em contato"
+        }
+      ]
+    }
+  ],
+  "FEATURES": [
+    {
+      "icon": "../../assets/image/saasModern/icon-1.png",
+      "title": "App Development",
+      "description": "Get your proof tests delivered home collect a sample from the news get design."
+    },
+    {
+      "icon": "../../assets/image/saasModern/icon-2.png",
+      "title": "10 Times Award",
+      "description": "Get your proof tests delivered home collect a sample from the news get design."
+    },
+    {
+      "icon": "../../assets/image/saasModern/icon-3.png",
+      "title": "Cloud Storage",
+      "description": "Get your proof tests delivered home collect a sample from the news get design."
+    },
+    {
+      "icon": "../../assets/image/saasModern/icon-4.png",
+      "title": "Customization",
+      "description": "Get your proof tests delivered home collect a sample from the news get design."
+    },
+    {
+      "icon": "../../assets/image/saasModern/icon-5.png",
+      "title": "UX Planning",
+      "description": "Get your proof tests delivered home collect a sample from the news get design."
+    },
+    {
+      "icon": "../../assets/image/saasModern/icon-6.png",
+      "title": "Customer Support",
+      "description": "Get your proof tests delivered home collect a sample from the news get design."
+    }
+  ],
+  "TESTIMONIALS": [
+    {
+      "title": "INSS Resolvido",
+      "review": "Sou diarista e a muito tempo não trabalho de carteira assinada. Como autônoma precisava regularizar minha situação rente ao INSS para me aposentar. Essa equipe sanou e ainda continua sanando todos meus problemas financeiros. Estou muito feliz!",
+      "name": "Lídia Silva",
+      "designation": "Diarista",
+      "avatar": "../../assets/image/saasModern/author-1.jpg"
+    },
+    {
+      "title": "Toda a parte burocrática sob controle",
+      "review": "Trabalho para uma empresa internacional e faço transações para o Brasil. Tenho trabalhado com a Gandos Contabilidade desde o início do processo e não me arrependo. Eles resolvem todas as etapas burocráticas todos os meses. Super recomendo!",
+      "name": "Wenderson Pires",
+      "designation": "Software Engineer at Sonia Labs",
+      "avatar": "../../assets/image/saasModern/author-2.jpg"
+    },
+    {
+      "title": "Deixei a parte complicada pra eles",
+      "review": "Eles fazem meu Imposto de Renda todo ano, com isso posso andar tranquilo sem me preocupar com as partes que são complicadas. Não pretendo mudar de contador.",
+      "name": "Ronaldo",
+      "designation": "Aposentado",
+      "avatar": "../../assets/image/saasModern/author-3.jpg"
+    },
+    {
+      "title": "Serviço Completo",
+      "review": "Solicitamos os serviços da Gandos Contabilidade desde a fundação da nossa empresa. Devido ao ótimo trabalho, continuamos trabalhando com esta equipe.",
+      "name": "WPDAS Consultoria de TI",
+      "designation": "Empresa",
+      "avatar": "../../assets/image/saasModern/author-4.jpg"
+    }
+  ]
+}
