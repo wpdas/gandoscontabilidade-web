@@ -16,7 +16,6 @@ function SEO({ description, lang, meta, keywords, title }) {
               lang
             }}
             title={title}
-            // <script src="//code.jivosite.com/widget/uM1eZOCVhK" async></script>
             script={[
               {
                 src: '//code.jivosite.com/widget/uM1eZOCVhK',
@@ -29,6 +28,10 @@ function SEO({ description, lang, meta, keywords, title }) {
               {
                 name: `description`,
                 content: metaDescription
+              },
+              {
+                name: `keywords`,
+                content: `contabilidade, contabeis, gandos, imposto de renda, simples nacional, lucro presumido, notas fiscais, balancetes, patrimonial, dre, ifrs, des, ecf, contador, bh`
               },
               {
                 property: `og:title`,

@@ -1,13 +1,13 @@
 {
-  "name": "react-next-landing",
+  "name": "gandoscontabilidade-web",
   "description": "Modern Multipurpose Landing Pages Template Using React, Next, Styled Components and so on. It also support Gatsby Static site generator ",
-  "version": "3.3.0",
+  "version": "1.0.0",
   "private": true,
-  "author": "RedQ Team",
+  "author": "Wenderson Pries, RedQ Team",
   "license": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Wpdas/gandoscontabilidade-web"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
