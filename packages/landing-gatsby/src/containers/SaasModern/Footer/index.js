@@ -45,7 +45,7 @@ const Footer = ({
               logoStyle={logoStyle}
             />
             <Text content="dayanegandoss@gmail.com" {...textStyle} />
-            <Text content="+5531992948187" {...textStyle} />
+            <Text content="+5531975692281" {...textStyle} />
           </Box>
           {/* End of footer logo column */}
           <Box {...colTwo}>
